@@ -78,7 +78,7 @@ onClick(loc){
         alert('Locul a fost deja rezervat!')
     }
 }
-//cauta in bd in functei de film, ora si data
+//cauta in bd in functie de film, ora si data
 locuriOcupate(f, o, d) {
 
 	const dbfilme = firebase.database().ref().child('rezervari');
