@@ -1,0 +1,27 @@
+{
+    "filmecinema":[
+       {
+          "title":"Parazit",
+          "poster_path":"/kNDkdMSdbP7rlGwpjUhQklmWijT.jpg",
+          "ora":{
+               "o1":"14:00",
+               "o2":"",
+               "o3":"",
+          },
+          
+          "data_premiera":"2020-02-30",
+          "data_incheiere":"2020-03-20",
+          "durata":"",
+          "sala":"",
+          "observatii":"",
+          "tip":""
+
+          
+       },
+       {
+         
+          "title":"The Gentlemen",
+          "poster_path":"/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg"
+       }
+    ]
+ }
